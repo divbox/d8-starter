@@ -11,6 +11,7 @@
 /web/.csslintrc
 /web/.editorconfig
 /web/.eslintignore
+/web/.eslintrc.json
 /web/.eslintrc
 /web/.gitattributes
 /web/.htaccess
