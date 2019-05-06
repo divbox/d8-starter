@@ -7,11 +7,6 @@
 /web/profiles/contrib/
 /web/libraries/
 
-# drupal helpers/extras that should be part of .gitignore
-/drush
-/load.environment.php
-/web
-
 # Ignore scaffold files
 /web/.csslintrc
 /web/.editorconfig
